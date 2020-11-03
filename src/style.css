@@ -1,0 +1,26 @@
+h1,
+p {
+  font-family: Lato;
+}
+.card {
+  width: 300px;
+  height: 200px;
+  background-color: skyblue;
+  text-align: center;
+  vertical-align: middle;
+  padding: 10px;
+  line-height: 15px;
+}
+.loadMore {
+  border-radius: 4px;
+  background-color: #f4511e;
+  border: none;
+  color: #ffffff;
+  text-align: center;
+  font-size: 14px;
+  padding: 10px;
+  width: 320px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px auto;
+}
